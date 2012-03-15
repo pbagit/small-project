@@ -1,1 +1,2 @@
+Dodatkowo modyfikacja do widoku na lapie bêd¹c w SMALL PROJECT.
 Wpis oryginalny na LAPTOPIE przed dodaniem do git
